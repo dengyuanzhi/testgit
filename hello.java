@@ -1,0 +1,9 @@
+class Hello{
+
+
+
+
+
+
+	//jankin D:)
+}
